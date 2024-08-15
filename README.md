@@ -1,7 +1,3 @@
-Certainly! Here's a simple README file for your Node.js script:
-
----
-
 # Gmail Autoresponder
 
 This Node.js script uses the Gmail API and Nodemailer to automatically respond to new emails with a predefined message.
@@ -50,6 +46,3 @@ node your-script-name.js
 
 This script is a basic example and may require additional enhancements for production use. Handle sensitive information securely and consider using environment variables for credentials.
 
----
-
-Feel free to customize the README based on your specific requirements and any additional information you want to provide to users.
